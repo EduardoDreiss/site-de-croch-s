@@ -18,6 +18,7 @@ header{
     text-decoration: none;
     color: brown;
     margin-right: 50px;
+    word-spacing: 50px;
 }
 #cabeçalho_links{
     text-align: right;
