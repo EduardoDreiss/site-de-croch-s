@@ -1,0 +1,73 @@
+body{
+    background-color: brown;
+}
+header{
+    background-color: bisque;
+    border: 1px solid red;
+    padding: 10px;
+    width: 94%;
+    border-radius: 15px;
+    margin: 0 auto;
+    
+}
+#tituloproduto{
+    color: rgb(187, 17, 17);
+    margin-left: 50px;
+    text-align: center;
+   font-size: 100px;
+   margin: 0 auto;
+}
+.produto{
+    background:antiquewhite;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 100%;
+    height: 370px;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black;
+}  
+#container{
+    position: relative;
+}
+#quadrado{
+    background:antiquewhite;
+    margin: left;
+    width: 40%;
+    max-width: 100%;
+    height: 300px;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 25px;
+}  
+#linha{
+    position: relative;
+    border: 1px solid black;
+    font-size: 320px;
+    bottom: 330px;
+    left: 15px;
+}
+#texto{
+    background-color: yellowgreen;
+    position: relative;
+    bottom: 560px;
+    left: 40px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p1{
+    position: relative;
+    bottom: 620px;
+    left: 14px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p2{
+    position: relative;
+    bottom: 620px;
+    left: 14px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
